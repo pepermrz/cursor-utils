@@ -1,32 +1,50 @@
-# Micropolis - Society Simulation Game
+# Cursor Utils - Agent Modes Documentation
 
-Micropolis is a next-generation society simulation game that fuses advanced AI with an intuitive user experience, designed for both desktop and mobile platforms. This repository contains the Product Requirements Document (PRD) and related documentation for the project.
+This repository contains documentation for various agent modes used in Cursor, designed to enhance different aspects of software development and project management.
 
-## Documentation
+## Available Agent Modes
 
-- [Product Requirements Document](docs/prd.md) - Comprehensive PRD detailing the game's features, requirements, and development plan
+### [Developer Mode](Agent%20modes/developer-mode.md)
+Specialized mode for software development tasks, including:
+- Code development and review
+- Debugging and testing
+- Documentation
+- Performance optimization
 
-## Project Overview
+### [Architect Mode](Agent%20modes/architect-mode.md)
+Focused on software architecture design:
+- System component design
+- Pattern implementation
+- System analysis
+- Technical documentation
 
-Micropolis allows players to:
-- Select historical eras for their simulation
-- Customize AI citizens with unique personalities and expertise
-- Watch as citizens interact, form alliances, and create emergent social structures
-- Shape society development through intuitive controls on both desktop and mobile
+### [Plan Mode](Agent%20modes/plan-mode.md)
+Assists with project planning and management:
+- Timeline creation
+- Resource allocation
+- Risk assessment
+- Progress tracking
 
-## Development Timeline
+### [PRD Mode](Agent%20modes/prd-mode.md)
+Helps create and manage Product Requirements Documents:
+- Document structure generation
+- Requirement analysis
+- User story integration
+- Technical specification support
 
-The project is planned for an 18-20 month development cycle, divided into five main phases:
-1. Core Simulation (6 months)
-2. Interface & Controls (4 months)
-3. Historical Content (5 months)
-4. Polish & Optimization (3 months)
-5. Launch Preparation (2 months)
+## Usage
+
+Each mode's documentation includes:
+- Core features and capabilities
+- Usage guidelines and best practices
+- Available commands
+- Integration capabilities
+- Support resources
 
 ## Contributing
 
-This repository is currently in the planning phase. Contribution guidelines will be added as the project progresses.
+Contributions to improve the documentation are welcome. Please submit a pull request with your proposed changes.
 
 ## License
 
-All rights reserved. This is a proprietary project in its planning phase.
+All rights reserved. This documentation is proprietary and confidential.
